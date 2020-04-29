@@ -4,15 +4,13 @@ Tensorflow based implemention of Graph Convolutional Matrix Completion for recom
 
 Rianne van den Berg, Thomas N. Kipf, Max Welling, [Graph Convolutional Matrix Completion](https://arxiv.org/abs/1706.02263) (2017)
 
-## Installation
-
-```python setup.py install```
-
 ## Requirements
 
-  * Python 2.7
-  * TensorFlow (1.4)
+  * Python 3.x
+  * TensorFlow
   * pandas
+
+No need to install.
 
 
 ## Usage
@@ -59,7 +57,7 @@ Script can take up to 24h to finish.
 
 ## Cite
 
-Please cite our paper if you use this code in your own work:
+Modified from original code.
 
 ```
 @article{vdberg2017graph,
